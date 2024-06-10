@@ -1,8 +1,11 @@
 package level2;
+
+import java.util.Scanner;
+
 //스킬트리
 //https://school.programmers.co.kr/learn/courses/30/lessons/49993
 public class Ex01 {
-    public int solution(String skill, String[] skill_trees) {
+    public static int solution(String skill, String[] skill_trees) {
         int answer = 0;
         // skill : 선행스킬 순서 / 1 ~ 26
         // skill_trees[] : 스킬트리 / 배열 크기 : 1 ~ 20 , 원소 길이 : 2 ~ 26 / 스킬 중복 x
@@ -30,7 +33,13 @@ public class Ex01 {
         return answer; //가능한 스킬트리 개수
     }
     public static void main(String[] args) {
-        String s = "BACDE";
-        System.out.println(s.indexOf("Z"));
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        String skill = sc.next();
+        String[] skill_trees = new String[n];
+        for (int i = 0; i < skill_trees.length; i++) {
+            skill_trees[i]=sc.next();
+        }
+        System.out.println(solution(skill, skill_trees));
     }
 }

@@ -1,3 +1,2 @@
-let str1 = ["ab"];
-let str2 = "cd";
-console.log(str1+str2);
+let test="AYYBYBYY";
+console.log(test.split("Y")); // "A" "" "B" "B" "" ""

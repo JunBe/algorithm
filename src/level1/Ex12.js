@@ -13,6 +13,7 @@ function solution(numbers) {
     for(const item of set){
         answer.push(item);
     }
+    //answer = [...set] 이게 더 쉬운방법!
     
     return answer;
 }

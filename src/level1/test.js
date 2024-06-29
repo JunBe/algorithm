@@ -1,3 +1,2 @@
-let arr=[""];
-let chk = arr.join("");
-console.log(typeof chk);
+let str="";
+console.log(str[str.length-1]);

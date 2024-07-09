@@ -13,11 +13,12 @@ public class Ex02 {
             arr.add(sc.nextInt());
         }
 
-        int min = Integer.MAX_VALUE;
-        int max = Integer.MIN_VALUE;
+        long min = Long.MAX_VALUE;
+        long max = Long.MIN_VALUE;
 
+        System.out.println(min+" "+max);
         for(int i=0;i<5;i++){
-            int result=0;
+            long result=0;
             for(int j=0;j<5;j++){
                 if(i!=j){
                     result += arr.get(j);

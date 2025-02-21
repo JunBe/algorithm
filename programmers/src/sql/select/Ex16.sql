@@ -1,0 +1,6 @@
+-- 상위 N개의 레코드 조회
+-- 코드를 입력하세요
+SELECT NAME
+FROM ANIMAL_INS
+ORDER BY DATETIME ASC
+LIMIT 1;

@@ -4,90 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107a7625-aff2-4a47-bef2-d53e49852836" name="Changes" comment="시간 변환">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers_algorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boostex/Ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boostex/Ex2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goorm/Ex01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goorm/Ex01.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goorm/Ex02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goorm/Ex02.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goorm/Ex03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goorm/Ex04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goorm/Ex04.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goorm/Ex05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goorm/Ex06.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goorm/Ex07.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/goorm/Ex08.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/Ex01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/Ex02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/Ex03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex02_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex03.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex03_2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex04.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex05.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex06.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex07.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex08.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex08_2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex09.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex10.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex11.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex12.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex13.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex14.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex15.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex16.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex16_2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex17.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex17_2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex18.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex19.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/Ex20.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level2/Ex01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level2/Ex01_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex01.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex02.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex03.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex04.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex04_2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex05.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex06.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex06_2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex07.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex08.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex09.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex10 copy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex10.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex11.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex11_2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex12.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex13.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex14.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/ex15.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/test.js" beforeDir="false" />
+    <list default="true" id="660cab51-0f75-4f8d-9432-6b54e69cde0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/swea/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/D2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -100,18 +27,15 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/JunBe/programmers_algorithm.git&quot;,
-    &quot;accountId&quot;: &quot;8b79eaa3-8b49-4a61-8084-9951bb8ee68e&quot;
+    &quot;url&quot;: &quot;https://github.com/JunBe/programmers_algorithm&quot;,
+    &quot;accountId&quot;: &quot;67c5ef14-a1e5-4565-a421-364b2acc84df&quot;
   }
 }</component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2hd6oLKaLKYbBZMrtyrzYlBxNzs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="2sFdnxaktDq2We90k1QIdsVW1XD" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -120,300 +44,44 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/전준배/Desktop/과제/수업/공부/코테자바/programmers_algorithm",
+    "last_opened_file_path": "/Users/jeonjunbae/Desktop/study/codingtest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/jeonjunbae/Desktop/study/codingtest/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="level2" />
-      <recent name="level1" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Ex03">
-    <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.Ex01" />
-      <module name="programmers_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.Ex02" />
-      <module name="programmers_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.Ex03" />
-      <module name="programmers_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boostex.Ex1" />
-      <module name="programmers_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="boostex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boostex.Ex2" />
-      <module name="programmers_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="boostex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Ex03" />
-        <item itemvalue="Application.Ex02" />
-        <item itemvalue="Application.Ex01" />
-        <item itemvalue="Application.Ex2" />
-        <item itemvalue="Application.Ex1" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="107a7625-aff2-4a47-bef2-d53e49852836" name="Changes" comment="" />
-      <created>1717911782796</created>
+      <changelist id="660cab51-0f75-4f8d-9432-6b54e69cde0a" name="Changes" comment="" />
+      <created>1738055428951</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1717911782796</updated>
-      <workItem from="1717911784373" duration="22196000" />
-      <workItem from="1718338335378" duration="5605000" />
-      <workItem from="1718616893837" duration="51000" />
-      <workItem from="1718701859163" duration="1807000" />
-      <workItem from="1720510903667" duration="9129000" />
-      <workItem from="1721104797061" duration="672000" />
-      <workItem from="1729247722931" duration="415000" />
-      <workItem from="1729248167979" duration="261000" />
+      <updated>1738055428951</updated>
+      <workItem from="1738055429988" duration="167000" />
+      <workItem from="1738055598361" duration="19000" />
+      <workItem from="1738055637656" duration="23000" />
+      <workItem from="1747793096357" duration="858000" />
     </task>
-    <task id="LOCAL-00001" summary=".">
-      <created>1717919665948</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1717919665948</updated>
-    </task>
-    <task id="LOCAL-00002" summary="키패드 누르기">
-      <created>1717919684033</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1717919684033</updated>
-    </task>
-    <task id="LOCAL-00003" summary="체육복">
-      <created>1717929645085</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1717929645085</updated>
-    </task>
-    <task id="LOCAL-00004" summary="체육복 다른풀이">
-      <created>1717931245835</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1717931245835</updated>
-    </task>
-    <task id="LOCAL-00005" summary="스킬트리">
-      <created>1718002578838</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1718002578838</updated>
-    </task>
-    <task id="LOCAL-00006" summary="스킬트리">
-      <created>1718002995361</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1718002995361</updated>
-    </task>
-    <task id="LOCAL-00007" summary="스킬트리">
-      <created>1718009182521</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1718009182521</updated>
-    </task>
-    <task id="LOCAL-00008" summary="구름">
-      <created>1718099018037</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1718099018037</updated>
-    </task>
-    <task id="LOCAL-00009" summary="합 계산기">
-      <created>1718202320393</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1718202320393</updated>
-    </task>
-    <task id="LOCAL-00010" summary="고장난 컴퓨터">
-      <created>1718207099109</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1718207099109</updated>
-    </task>
-    <task id="LOCAL-00011" summary="고장난 컴퓨터">
-      <created>1718207145334</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1718207145334</updated>
-    </task>
-    <task id="LOCAL-00012" summary="뱀이 지나간 자리">
-      <created>1718209381212</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1718209381212</updated>
-    </task>
-    <task id="LOCAL-00013" summary="부캠연습문제1">
-      <created>1718340641284</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1718340641284</updated>
-    </task>
-    <task id="LOCAL-00014" summary="부캠연습문제2">
-      <created>1718344294798</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1718344294798</updated>
-    </task>
-    <task id="LOCAL-00015" summary="구름">
-      <created>1718616935964</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1718616935964</updated>
-    </task>
-    <task id="LOCAL-00016" summary="구름">
-      <created>1720512822439</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1720512822439</updated>
-    </task>
-    <task id="LOCAL-00017" summary="플러스 마이너스">
-      <created>1720512830932</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1720512830932</updated>
-    </task>
-    <task id="LOCAL-00018" summary="최대 최소 합">
-      <created>1720515460174</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1720515460174</updated>
-    </task>
-    <task id="LOCAL-00019" summary="최대 최소 합">
-      <created>1720515669548</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1720515669548</updated>
-    </task>
-    <task id="LOCAL-00020" summary="시간 변환">
-      <created>1720518247572</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1720518247572</updated>
-    </task>
-    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
-    <MESSAGE value="키패드 누르기" />
-    <MESSAGE value="체육복" />
-    <MESSAGE value="체육복 다른풀이" />
-    <MESSAGE value="스킬트리" />
-    <MESSAGE value="합 계산기" />
-    <MESSAGE value="고장난 컴퓨터" />
-    <MESSAGE value="뱀이 지나간 자리" />
-    <MESSAGE value="부캠연습문제1" />
-    <MESSAGE value="부캠연습문제2" />
-    <MESSAGE value="구름" />
-    <MESSAGE value="플러스 마이너스" />
-    <MESSAGE value="최대 최소 합" />
-    <MESSAGE value="시간 변환" />
-    <option name="LAST_COMMIT_MESSAGE" value="시간 변환" />
   </component>
 </project>
